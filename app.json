@@ -1,8 +1,8 @@
 {
-    "name": "Beltah Tech 254 🇰🇪",
-    "description": "BELTAH-MD WA bot, Created by Beltah Tech",
-    "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-    "repository": "https://github.com/Huaweike/Session/tree/main",
+    "name": "Fredi Tech 255 🇹🇿",
+    "description": "Freditech WA bots, Created by FrediEzra",
+    "logo": "https://files.catbox.moe/g73xvl.jpeg",
+    "repository": "https://github.com/kingfredie/Session/tree/main",
     "keywords": ["FlashMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
