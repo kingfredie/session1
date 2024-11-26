@@ -57,10 +57,10 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
                let FLASH_MD_TEXT = `
-FredieTech 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 ✅
+DULLAHTECH 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 ✅
 
 
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 LUCKY AND FREDI MD 😡`
+> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 DULLAH MD 😡`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
